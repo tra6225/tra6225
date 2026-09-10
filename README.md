@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Tra Nguyen (ദ്ദി˙ᗜ˙)
+<h1>Hi, I'm Tra Nguyen (ദ്ദി˙ᗜ˙)</h1>
 
 Welcome to my GitHub account!
 
