@@ -1,4 +1,5 @@
-# Hi, I'm Tra Nguyen
+<div align="center">
+# Hi, I'm Tra Nguyen (ദ്ദി˙ᗜ˙)
 
 Welcome to my GitHub account!
 
@@ -12,3 +13,4 @@ and adding a little creativity to everything I build.
 💗 **[GitHub](https://github.com/tra6225)** ·
 💗 **[LinkedIn](https://linkedin.com/in/tranguyen257/)** ·
 💗 **[Personal Website](https://tra-personal-website.vercel.app)**
+</div>
