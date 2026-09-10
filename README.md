@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header" width="100%" alt="Pink header" />
-# Hi, I'm Tra Nguyen 👋
+## Hi, I'm Tra Nguyen 👋
 
 Welcome to my GitHub account!
 
