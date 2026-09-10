@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tra6225/tra6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand" />
 
-Here are some ideas to get you started:
+# Hi, I'm Tra Nguyen 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub account!
+
+I enjoy turning ideas into projects, learning new technologies,
+and adding a little creativity to everything I build.
+
+🎨 Painting &nbsp; 🍳 Cooking &nbsp; 💻 Coding &nbsp; 💗 Favorite color: Pink
+
+### Find me online
+
+[GitHub](https://github.com/tra6225) ·
+[LinkedIn](https://linkedin.com/in/tranguyen257/) ·
+[Personal Website](https://tra-personal-website.vercel.app)
+
+</div>
