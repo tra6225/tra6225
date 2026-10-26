@@ -6,7 +6,7 @@ Welcome to my GitHub account!
 I am an aspiring Software Engineer. I enjoy exploring new technologies
 and adding a little creativity to everything I build.
 
-### Find me online
+### ⭐ Find me online ⭐
 
 **[GitHub](https://github.com/tra6225)** ·
 **[LinkedIn](https://linkedin.com/in/tranguyen257/)** ·
